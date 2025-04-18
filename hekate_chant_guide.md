@@ -1,0 +1,88 @@
+# Hekate チャント・ガイドブック（日常ワーク用）
+
+このガイドブックは、儀式空間を必要としない日常の中で、
+女神ヘカテと繋がるための簡潔なチャント（詠唱）を紹介するものです。
+
+## 構造と目的
+
+各チャントは以下のような構造を基本としています：
+
+- 開始：**IO HEKATE**（女神への呼びかけ）
+- 本文：祈願・導き・守護・感謝など（3行）
+- 終了：**IAOM**（力を封じる神聖音）
+
+この構造により、朝・昼・夜・睡眠前などの時間帯ごとに
+簡潔な儀式を構成できます。
+
+---
+
+## 読み方（カタカナ発音）一覧
+
+| 表記             | カタカナ読み       | 意味                         |
+|------------------|--------------------|------------------------------|
+| IO HEKATE        | イオ・ヘカテー     | ヘカテへの感嘆呼びかけ         |
+| IAOM             | イー・アー・オーム | 神聖な封印音（Jason Miller型）|
+| TRIMORPHIS       | トリモルフィス     | 三相の女神                   |
+| CHTHONIA         | クトニア           | 冥界の女神                   |
+| PHOSPHOROS       | フォスフォロス     | 光をもたらす者               |
+| KLEIDOKHOUS      | クレイドコウス     | 鍵を持つ者                   |
+| PROPYLAIA        | プロピュライア     | 門の守護者                   |
+
+---
+
+## 🌄 朝のチャント（Awakening）
+```
+IO HEKATE  
+PHOSPHOROS — bring the dawn.  
+TRIMORPHIS, walk beside me this day.  
+KLEIDOKHOUS, open the way with light.  
+IAOM
+```
+
+## 🌞 昼のチャント（Protection）
+```
+IO HEKATE  
+GUARDIAN OF THE CROSSROADS — stand at my sides.  
+CHTHONIA, anchor me in stillness.  
+PROPYLAIA, seal the gate behind me.  
+IAOM
+```
+
+## 🌙 夜のチャント（Thanks & Release）
+```
+IO HEKATE  
+BRINGER OF SHADOWS — I thank you.  
+TRIMORPHIS, wrap me in silence and fire.  
+IAOM — I return to the center.  
+IAOM
+```
+
+## 🌌 眠る前のチャント（Sleep Protection）
+```
+IO HEKATE  
+CHTHONIA — guard my sleep from shadow.  
+TRIMORPHIS — guide me through the dreamways.  
+KLEIDOKHOUS — lock the gates 'til dawn.  
+IAOM
+```
+
+## 🛡️ 保護と浄化のチャント（Anytime）
+```
+IO HEKATE  
+SHIELD ME FROM WHAT I CANNOT SEE.  
+CHTHONIA, ROOT ME DEEP IN EARTH.  
+IAOM — SEAL MY CIRCLE.  
+IAOM
+```
+
+---
+
+## メモ
+- カタカナは儀式テキストには含めず、**音読記憶・習熟のための補助**として活用してください。
+- 各チャントは3行ですが、感覚に合わせて静かに間をとるとより効果的です。
+- 外出前、寝る前、移動中など、**日常の“隙間”に魔術を差し込むためのプロトコル**です。
+
+---
+
+© Open Source Witchcraft, 2025  
+自由にカスタマイズ・翻案してご使用ください。
