@@ -35,7 +35,7 @@
 IO HEKATE  
 PHOSPHOROS — bring the dawn.  
 TRIMORPHIS, walk beside me this day.  
-KLEIDOKHOUS, open the way with light.  
+KLEIDOKHOUS, unseal the path with the sacred key. 
 IAOM
 ```
 
