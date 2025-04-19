@@ -44,7 +44,7 @@ IAOM
 IO HEKATE  
 GUARDIAN OF THE CROSSROADS — stand at my sides.  
 CHTHONIA, anchor me in stillness.  
-PROPYLAIA, seal the gate behind me.  
+KLEIDOKHOUS, seal the gate behind me.  
 IAOM
 ```
 
@@ -53,7 +53,7 @@ IAOM
 IO HEKATE  
 BRINGER OF SHADOWS — I thank you.  
 TRIMORPHIS, wrap me in silence and fire.  
-IAOM — I return to the center.  
+PROPYLAIA — I return to the center.  
 IAOM
 ```
 
@@ -62,7 +62,7 @@ IAOM
 IO HEKATE  
 CHTHONIA — guard my sleep from shadow.  
 TRIMORPHIS — guide me through the dreamways.  
-KLEIDOKHOUS — lock the gates 'til dawn.  
+PROPYLAIA — lock the gates 'til dawn.  
 IAOM
 ```
 
@@ -71,7 +71,7 @@ IAOM
 IO HEKATE  
 SHIELD ME FROM WHAT I CANNOT SEE.  
 CHTHONIA, ROOT ME DEEP IN EARTH.  
-IAOM — SEAL MY CIRCLE.  
+PROPYLAIA — SEAL MY CIRCLE.  
 IAOM
 ```
 
