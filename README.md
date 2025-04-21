@@ -49,7 +49,7 @@ IAOM
 ## 🌞 昼のチャント（Protection）
 ```
 IO HEKATE  
-GUARDIAN OF THE CROSSROADS — stand at my sides.  
+PROPYLAIA – stand guard at the crossroads.  
 CHTHONIA, anchor me in stillness.  
 KLEIDOKHOUS, seal the gate behind me.  
 IAOM
@@ -58,7 +58,7 @@ IAOM
 ## 🌙 夜のチャント（Thanks & Release）
 ```
 IO HEKATE  
-BRINGER OF SHADOWS — I thank you.  
+CHTHONIA – bringer of shadows, I thank you.  
 TRIMORPHIS, wrap me in silence and fire.  
 PROPYLAIA — I return to the center.  
 IAOM
@@ -76,7 +76,7 @@ IAOM
 ## 🛡️ 保護と浄化のチャント（Anytime）
 ```
 IO HEKATE  
-SHIELD ME FROM WHAT I CANNOT SEE.  
+CHTHONIA – shield me from what I cannot see.  
 CHTHONIA, ROOT ME DEEP IN EARTH.  
 PROPYLAIA — SEAL MY CIRCLE.  
 IAOM
