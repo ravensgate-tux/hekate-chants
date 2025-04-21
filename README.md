@@ -34,8 +34,8 @@
 ```
 IO HEKATE  
 PHOSPHOROS — bring the dawn.  
-TRIMORPHIS, walk beside me this day.  
-KLEIDOKHOUS, unseal the path with the sacred key. 
+TRIMORPHIS — walk beside me this day.  
+KLEIDOKHOUS — unseal the path with the sacred key. 
 IAOM
 
 ### 補足
@@ -50,8 +50,8 @@ IAOM
 ```
 IO HEKATE  
 PROPYLAIA – stand guard at the crossroads.  
-CHTHONIA, anchor me in stillness.  
-KLEIDOKHOUS, seal the gate behind me.  
+CHTHONIA — anchor me in stillness.  
+KLEIDOKHOUS — seal the gate behind me.  
 IAOM
 ```
 
@@ -59,7 +59,7 @@ IAOM
 ```
 IO HEKATE  
 CHTHONIA – bringer of shadows, I thank you.  
-TRIMORPHIS, wrap me in silence and fire.  
+TRIMORPHIS — wrap me in silence and fire.  
 PROPYLAIA — I return to the center.  
 IAOM
 ```
@@ -77,8 +77,8 @@ IAOM
 ```
 IO HEKATE  
 CHTHONIA – shield me from what I cannot see.  
-CHTHONIA, ROOT ME DEEP IN EARTH.  
-PROPYLAIA — SEAL MY CIRCLE.  
+KLEIDOKHOUS – root me deep in earth.  
+PROPYLAIA — seal my circle.  
 IAOM
 ```
 
