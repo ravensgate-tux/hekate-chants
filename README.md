@@ -38,6 +38,12 @@ TRIMORPHIS, walk beside me this day.
 KLEIDOKHOUS, unseal the path with the sacred key. 
 IAOM
 ```
+## 補足
+つまり声に出すのは：  
+イオ・ヘカテー。フォスフォロス。トリモルフィス。クレイドコウス。イー・アー・オーム。  
+
+頭の中では：  
+（光をもたらす者よ、夜を越えて私とともに歩め。鍵を持ち、道を開け──）  
 
 ## 🌞 昼のチャント（Protection）
 ```
