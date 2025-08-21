@@ -88,7 +88,7 @@ IAOM
 - 各チャントは3行ですが、感覚に合わせて静かに間をとるとより効果的です。
 - 外出前、寝る前、移動中など、**日常の“隙間”に魔術を差し込むためのプロトコル**です。
 
-<img src="hekate_temple.jpg" width="500">
+<img src="Hekate-Wheel .avif" width="500">
 
 ---
 
