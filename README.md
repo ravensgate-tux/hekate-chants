@@ -39,6 +39,7 @@ KLEIDOKHOUS — unseal the path with the sacred key.
 IAOM
 
 ## 補足
+
 つまり声に出すのは：  
 イオ・ヘカテー。フォスフォロス。トリモルフィス。クレイドコウス。イー・アー・オーム。  
 
