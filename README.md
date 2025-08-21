@@ -2,7 +2,7 @@
 このガイドブックは、儀式空間を必要としない日常の中で、
 女神ヘカテと繋がるための簡潔なチャント（詠唱）を紹介するものです。
 
-<div align="right">
+<div align="center">
   
 <img src="Hekate-Wheel .avif" width="200">
 
